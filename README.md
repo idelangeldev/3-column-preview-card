@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/3column-preview-card-solution-using-basic-html-and-css-mdTMXzc4y)
 - Live Site URL: [Add live site URL here](https://eager-swartz-fcb9ff.netlify.app/)
 
 ## My process
