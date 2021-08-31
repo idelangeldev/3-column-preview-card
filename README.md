@@ -28,14 +28,14 @@ Users should be able to:
 
 ### Screenshots
 
-![](./screenshots/screenshot-main.jpg)
-![](./screenshots/screenshot-hover.jpg)
-![](./screenshots/screenshot-mobile.jpg)
+![This is the main look](./screenshots/screenshot-main.jpg)
+![This is the hover state](./screenshots/screenshot-hover.jpg)
+![This is the mobile version](./screenshots/screenshot-mobile.jpg)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://eager-swartz-fcb9ff.netlify.app/)
 
 ## My process
 
